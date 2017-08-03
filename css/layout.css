@@ -325,11 +325,84 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
+.cplusplus {
+    width: 60%;
+    -moz-animation: cplusplus 2s ease;
+    -webkit-animation: cplusplus  2s ease;
+}
+
+.c {
+    width: 80%;
+    -moz-animation: c 2s ease;
+    -webkit-animation: c 2s ease;
+}
+
+.java {
+    width: 90%;
+    -moz-animation: java 2s ease;
+    -webkit-animation: java 2s ease;
+}
+
+.matlab {
+    width: 95%;
+    -moz-animation: matlab 2s ease;
+    -webkit-animation: matlab 2s ease;
+}
+
+.mathematica {
+    width: 60%;
+    -moz-animation: mathematica 2s ease;
+    -webkit-animation: mathematica 2s ease;
+}
+
+.python {
+    width: 60%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+
+.latex {
+    width: 90%;
+    -moz-animation: latex 2s ease;
+    -webkit-animation: latex 2s ease;
+}
+
 .photoshop {
-  	width: 60%;
+  	width: 85%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
+
+.ros {
+    width: 70%;
+    -moz-animation: ros 2s ease;
+    -webkit-animation: ros 2s ease;
+}
+
+.systemverilog {
+    width: 50%;
+    -moz-animation: systemverilog 2s ease;
+    -webkit-animation: systemverilog 2s ease;
+}
+
+.controldesign {
+    width: 85%;
+    -moz-animation: controldesign 2s ease;
+    -webkit-animation: controldesign 2s ease;
+}
+
+.spanish {
+    width: 85%;
+    -moz-animation: spanish 2s ease;
+    -webkit-animation: spanish 2s ease;
+}
+
+.eaglecad {
+    width: 85%;
+    -moz-animation: eaglecad 2s ease;
+    -webkit-animation: eaglecad 2s ease;
+}
+
 .illustrator {
   	width: 55%;
   	-moz-animation: illustrator 2s ease;
