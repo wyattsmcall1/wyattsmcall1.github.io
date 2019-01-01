@@ -402,6 +402,16 @@ ul#nav li.current a { color: #F06000; }
     -moz-animation: eaglecad 2s ease;
     -webkit-animation: eaglecad 2s ease;
 }
+.autocad {
+    width: 50%;
+    -moz-animation: autocad 2s ease;
+    -webkit-animation: autocad 2s ease;
+}
+.androidstudio {
+    width: 50%;
+    -moz-animation: androidstudio 2s ease;
+    -webkit-animation: androidstudio 2s ease;
+}
 
 .illustrator {
   	width: 55%;
@@ -414,7 +424,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 50%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
@@ -422,6 +432,11 @@ ul#nav li.current a { color: #F06000; }
   	width: 80%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
+}
+.html {
+    width: 75%;
+    -moz-animation: html 2s ease;
+    -webkit-animation: html 2s ease;
 }
 .jquery {
   	width: 50%;
