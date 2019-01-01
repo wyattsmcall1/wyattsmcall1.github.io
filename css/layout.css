@@ -356,13 +356,13 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .python {
-    width: 60%;
+    width: 95%;
     -moz-animation: python 2s ease;
     -webkit-animation: python 2s ease;
 }
 
 .latex {
-    width: 90%;
+    width: 95%;
     -moz-animation: latex 2s ease;
     -webkit-animation: latex 2s ease;
 }
@@ -402,6 +402,17 @@ ul#nav li.current a { color: #F06000; }
     -moz-animation: eaglecad 2s ease;
     -webkit-animation: eaglecad 2s ease;
 }
+.opencv {
+    width: 50%;
+    -moz-animation: opencv 2s ease;
+    -webkit-animation: opencv 2s ease;
+}
+.php {
+    width: 50%;
+    -moz-animation: php 2s ease;
+    -webkit-animation: php 2s ease;
+}
+
 .autocad {
     width: 50%;
     -moz-animation: autocad 2s ease;
@@ -434,7 +445,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .html {
-    width: 75%;
+    width: 85%;
     -moz-animation: html 2s ease;
     -webkit-animation: html 2s ease;
 }
