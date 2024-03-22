@@ -326,19 +326,19 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .cplusplus {
-    width: 60%;
+    width: 95%;
     -moz-animation: cplusplus 2s ease;
     -webkit-animation: cplusplus  2s ease;
 }
 
 .c {
-    width: 80%;
+    width: 95%;
     -moz-animation: c 2s ease;
     -webkit-animation: c 2s ease;
 }
 
 .java {
-    width: 90%;
+    width: 95%;
     -moz-animation: java 2s ease;
     -webkit-animation: java 2s ease;
 }
@@ -374,7 +374,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .ros {
-    width: 70%;
+    width: 90%;
     -moz-animation: ros 2s ease;
     -webkit-animation: ros 2s ease;
 }
